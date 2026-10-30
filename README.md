@@ -35,6 +35,7 @@ class YassineSelmi:
     expertise  = ["IFRS 17", "Provisionnement (Chain Ladder, Mack, BF)",
                   "Solvabilité II", "Tarification GLM", "Valeurs extrêmes"]
     data_ia    = ["Machine learning", "LLM & RAG", "Agents (LangGraph)", "MLOps"]
+    web3       = ["Hedera (HTS, HCS)", "Smart contracts Solidity"]
     principe   = "Le code calcule, le modèle de langage explique, chaque chiffre est vérifié."
 ```
 
@@ -61,12 +62,24 @@ class YassineSelmi:
 
 <table>
 <tr>
-<td align="center" width="25%"><img src="https://img.shields.io/badge/ESPRIT-Ing%C3%A9nieur%20Data%20Science-D52B1E?style=for-the-badge" alt="ESPRIT"><br><sub>Tunis · 2022 – 2027</sub></td>
-<td align="center" width="25%"><img src="https://img.shields.io/badge/Le%20Mans%20Universit%C3%A9-Master%20Actuariat-1F4E79?style=for-the-badge" alt="Le Mans Université"><br><sub>2025 – 2027</sub></td>
-<td align="center" width="25%"><img src="https://img.shields.io/badge/DataCamp-Data%20Analyst%20Associate-03EF62?style=for-the-badge&logo=datacamp&logoColor=black" alt="DataCamp"><br><sub>en cours</sub></td>
-<td align="center" width="25%"><img src="https://img.shields.io/badge/Hedera-DLT-222222?style=for-the-badge&logo=hedera&logoColor=white" alt="Hedera"><br><sub>en cours</sub></td>
+<td align="center" width="50%"><img src="https://img.shields.io/badge/ESPRIT-Ing%C3%A9nieur%20Data%20Science-D52B1E?style=for-the-badge" alt="ESPRIT"><br><sub>Tunis · 2022 – 2027</sub></td>
+<td align="center" width="50%"><img src="https://img.shields.io/badge/Le%20Mans%20Universit%C3%A9-Master%20Actuariat-1F4E79?style=for-the-badge" alt="Le Mans Université"><br><sub>2025 – 2027</sub></td>
 </tr>
 </table>
+
+<p align="center"><b>9 certifications</b> · NVIDIA Deep Learning Institute · The Hashgraph Association · DataCamp</p>
+
+| | Certification | Organisme | Date |
+| :-: | --- | --- | :-: |
+| <img src="https://img.shields.io/badge/-NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA"> | **Building RAG Agents with LLMs** | NVIDIA DLI | oct. 2026 |
+| <img src="https://img.shields.io/badge/-NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA"> | **Building Transformer-Based NLP Applications** | NVIDIA DLI | oct. 2026 |
+| <img src="https://img.shields.io/badge/-NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA"> | **Applications of AI for Anomaly Detection** | NVIDIA DLI | avr. 2026 |
+| <img src="https://img.shields.io/badge/-NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA"> | **Rapid Application Development with LLMs** | NVIDIA DLI | déc. 2025 |
+| <img src="https://img.shields.io/badge/-NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA"> | **Building LLM Applications With Prompt Engineering** | NVIDIA DLI | déc. 2025 |
+| <img src="https://img.shields.io/badge/-Hedera-222222?style=flat-square&logo=hedera&logoColor=white" alt="Hedera"> | **Hedera Certified Developer Associate (HCDA)** | The Hashgraph Association | oct. 2026 |
+| <img src="https://img.shields.io/badge/-Hedera-222222?style=flat-square&logo=hedera&logoColor=white" alt="Hedera"> | **Hedera Business Foundation (HBF)** | The Hashgraph Association | oct. 2026 |
+| <img src="https://img.shields.io/badge/-Hedera-222222?style=flat-square&logo=hedera&logoColor=white" alt="Hedera"> | **Hedera Certified Foundation (HCF)** | The Hashgraph Association | oct. 2026 |
+| <img src="https://img.shields.io/badge/-DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black" alt="DataCamp"> | **Data Analyst Associate** | DataCamp | en cours |
 
 ---
 
@@ -89,6 +102,8 @@ class YassineSelmi:
   <img src="https://img.shields.io/badge/Prefect-024DFD?style=flat-square&logo=prefect&logoColor=white" alt="Prefect">
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity">
+  <img src="https://img.shields.io/badge/Hedera-222222?style=flat-square&logo=hedera&logoColor=white" alt="Hedera">
 </p>
 
 <details>
