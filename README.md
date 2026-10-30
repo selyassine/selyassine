@@ -67,7 +67,7 @@ class YassineSelmi:
 </tr>
 </table>
 
-<p align="center"><b>9 certifications</b> · NVIDIA Deep Learning Institute · The Hashgraph Association · DataCamp</p>
+<p align="center"><b>8 certifications obtenues</b> (NVIDIA Deep Learning Institute, The Hashgraph Association) · 1 en cours (DataCamp)</p>
 
 | | Certification | Organisme | Date |
 | :-: | --- | --- | :-: |
