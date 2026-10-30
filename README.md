@@ -40,15 +40,6 @@ class YassineSelmi:
 
 ### 🚀 Projets phares
 
-<p align="center">
-  <a href="https://github.com/selyassine/ifrs17-copilot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=selyassine&repo=ifrs17-copilot&theme=tokyonight&hide_border=true&description_lines_count=3" alt="IFRS 17 Copilot"></a>
-  <a href="https://github.com/selyassine/SIAP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=selyassine&repo=SIAP&theme=tokyonight&hide_border=true&description_lines_count=3" alt="SIAP"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/selyassine/VITA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=selyassine&repo=VITA&theme=tokyonight&hide_border=true&description_lines_count=3" alt="VitaAI"></a>
-  <a href="https://github.com/selyassine/Quant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=selyassine&repo=Quant&theme=tokyonight&hide_border=true&description_lines_count=3" alt="QuantAI"></a>
-</p>
-
 | | Projet | Point fort |
 | :-: | --- | --- |
 | 🧾 | [**IFRS 17 Copilot**](https://github.com/selyassine/ifrs17-copilot) | CSM identique **au centime sur 50/50 dossiers** contre un script R indépendant · 370+ tests · CI verte |
@@ -100,16 +91,14 @@ class YassineSelmi:
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=selyassine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=fr" alt="Statistiques">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selyassine&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=fr" alt="Langages les plus utilisés">
+  <img src="https://raw.githubusercontent.com/selyassine/selyassine/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Résumé du profil" width="100%">
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/selyassine/selyassine/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Statistiques" height="180">
+  <img src="https://raw.githubusercontent.com/selyassine/selyassine/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Langages les plus utilisés" height="180">
+</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=selyassine&theme=tokyonight&hide_border=true&locale=fr" alt="Série de contributions">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=selyassine&theme=tokyo-night&hide_border=true&area=true" alt="Graphique d'activité" width="100%">
 </p>
 
 <!-- Animation du serpent : générée chaque jour par .github/workflows/snake.yml -->
