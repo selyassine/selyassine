@@ -122,9 +122,6 @@ class YassineSelmi:
   <img src="https://raw.githubusercontent.com/selyassine/selyassine/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Heures de commit" height="180">
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=selyassine&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="Trophées GitHub">
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=selyassine&theme=tokyonight&hide_border=true&locale=fr" alt="Série de contributions">
 </p>
 
