@@ -15,6 +15,13 @@
   <img src="https://img.shields.io/badge/Tunis-Tunisie-2C5364?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Tunis">
   <img src="https://img.shields.io/badge/Ouvert%20aux-stages%20%26%20opportunit%C3%A9s-2ea44f?style=for-the-badge" alt="Ouvert aux opportunités">
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/IFRS%2017-0F2027?style=for-the-badge&logo=bookstack&logoColor=36BCF7" alt="IFRS 17">
+  <img src="https://img.shields.io/badge/Solvabilit%C3%A9%20II-203A43?style=for-the-badge&logo=shield&logoColor=36BCF7" alt="Solvabilité II">
+  <img src="https://img.shields.io/badge/Provisionnement-2C5364?style=for-the-badge&logo=databricks&logoColor=36BCF7" alt="Provisionnement">
+  <img src="https://img.shields.io/badge/Machine%20Learning-0F2027?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/LLM%20%26%20RAG-203A43?style=for-the-badge&logo=langchain&logoColor=white" alt="LLM et RAG">
+</p>
 
 ---
 
@@ -40,13 +47,26 @@ class YassineSelmi:
 
 ### 🚀 Projets phares
 
-| | Projet | Point fort |
-| :-: | --- | --- |
-| 🧾 | [**IFRS 17 Copilot**](https://github.com/selyassine/ifrs17-copilot) | CSM identique **au centime sur 50/50 dossiers** contre un script R indépendant · 370+ tests · CI verte |
-| 🚗 | [**SIAP**](https://github.com/selyassine/SIAP) | Tarification GLM + LightGBM, fraude (AUC ≈ 0,82), IBNR Chain Ladder / Mack / Bootstrap, vision YOLOv8 |
-| 🧬 | [**VitaAI**](https://github.com/selyassine/VITA) | 15 modules d'assurance-vie : Lee-Carter, SCR sur courbes EIOPA, VaR de longévité à 99,5 % |
-| 📈 | [**QuantAI**](https://github.com/selyassine/Quant) | Ensemble LightGBM + LSTM + Transformer, Markowitz, Black-Litterman, agent avec validation humaine |
-| ⚙️ | [**Titanic MLOps**](https://github.com/selyassine/Mlops) | GitHub Actions → GHCR → Jenkins → Prefect, automatiquement à chaque push |
+| | Projet | Point fort | État |
+| :-: | --- | --- | --- |
+| 🧾 | [**IFRS 17 Copilot**](https://github.com/selyassine/ifrs17-copilot) | CSM identique **au centime sur 50/50 dossiers** contre un script R indépendant · 370+ tests | <img src="https://img.shields.io/github/actions/workflow/status/selyassine/ifrs17-copilot/ci.yml?branch=main&label=CI&style=flat-square&logo=githubactions&logoColor=white" alt="CI"> <img src="https://img.shields.io/github/languages/top/selyassine/ifrs17-copilot?style=flat-square&color=36BCF7" alt="Langage"> <img src="https://img.shields.io/github/last-commit/selyassine/ifrs17-copilot?style=flat-square&label=mis%20%C3%A0%20jour&color=2C5364" alt="Dernière mise à jour"> |
+| 🚗 | [**SIAP**](https://github.com/selyassine/SIAP) | Tarification GLM + LightGBM, fraude (AUC ≈ 0,82), IBNR Chain Ladder / Mack / Bootstrap, vision YOLOv8 | <img src="https://img.shields.io/github/languages/top/selyassine/SIAP?style=flat-square&color=36BCF7" alt="Langage"> <img src="https://img.shields.io/github/last-commit/selyassine/SIAP?style=flat-square&label=mis%20%C3%A0%20jour&color=2C5364" alt="Dernière mise à jour"> |
+| 🧬 | [**VitaAI**](https://github.com/selyassine/VITA) | 15 modules d'assurance-vie : Lee-Carter, SCR sur courbes EIOPA, VaR de longévité à 99,5 % | <img src="https://img.shields.io/github/languages/top/selyassine/VITA?style=flat-square&color=36BCF7" alt="Langage"> <img src="https://img.shields.io/github/last-commit/selyassine/VITA?style=flat-square&label=mis%20%C3%A0%20jour&color=2C5364" alt="Dernière mise à jour"> |
+| 📈 | [**QuantAI**](https://github.com/selyassine/Quant) | Ensemble LightGBM + LSTM + Transformer, Markowitz, Black-Litterman, agent avec validation humaine | <img src="https://img.shields.io/github/languages/top/selyassine/Quant?style=flat-square&color=36BCF7" alt="Langage"> <img src="https://img.shields.io/github/last-commit/selyassine/Quant?style=flat-square&label=mis%20%C3%A0%20jour&color=2C5364" alt="Dernière mise à jour"> |
+| ⚙️ | [**Titanic MLOps**](https://github.com/selyassine/Mlops) | GitHub Actions → GHCR → Jenkins → Prefect, automatiquement à chaque push | <img src="https://img.shields.io/github/languages/top/selyassine/Mlops?style=flat-square&color=36BCF7" alt="Langage"> <img src="https://img.shields.io/github/last-commit/selyassine/Mlops?style=flat-square&label=mis%20%C3%A0%20jour&color=2C5364" alt="Dernière mise à jour"> |
+
+---
+
+### 🎓 Formation et certifications
+
+<table>
+<tr>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/ESPRIT-Ing%C3%A9nieur%20Data%20Science-D52B1E?style=for-the-badge" alt="ESPRIT"><br><sub>Tunis · 2022 – 2027</sub></td>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/Le%20Mans%20Universit%C3%A9-Master%20Actuariat-1F4E79?style=for-the-badge" alt="Le Mans Université"><br><sub>2025 – 2027</sub></td>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/DataCamp-Data%20Analyst%20Associate-03EF62?style=for-the-badge&logo=datacamp&logoColor=black" alt="DataCamp"><br><sub>en cours</sub></td>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/Hedera-DLT-222222?style=for-the-badge&logo=hedera&logoColor=white" alt="Hedera"><br><sub>en cours</sub></td>
+</tr>
+</table>
 
 ---
 
@@ -96,6 +116,13 @@ class YassineSelmi:
 <p align="center">
   <img src="https://raw.githubusercontent.com/selyassine/selyassine/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Statistiques" height="180">
   <img src="https://raw.githubusercontent.com/selyassine/selyassine/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Langages les plus utilisés" height="180">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/selyassine/selyassine/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Dépôts par langage" height="180">
+  <img src="https://raw.githubusercontent.com/selyassine/selyassine/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Heures de commit" height="180">
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=selyassine&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="Trophées GitHub">
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=selyassine&theme=tokyonight&hide_border=true&locale=fr" alt="Série de contributions">
