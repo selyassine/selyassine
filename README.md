@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/selmi-yassine-437503311/"><img src="https://img.shields.io/badge/LinkedIn-Yassine%20Selmi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/selyassine?tab=repositories"><img src="https://img.shields.io/badge/Projets-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projets"></a>
+</p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=selyassine&label=Vues%20du%20profil&color=0e75b6&style=for-the-badge" alt="Vues du profil">
   <img src="https://img.shields.io/badge/Tunis-Tunisie-2C5364?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Tunis">
   <img src="https://img.shields.io/badge/Ouvert%20aux-stages%20%26%20opportunit%C3%A9s-2ea44f?style=for-the-badge" alt="Ouvert aux opportunités">
@@ -146,6 +150,12 @@ class YassineSelmi:
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/selyassine/selyassine/output/github-contribution-grid-snake-dark.svg">
     <img src="https://raw.githubusercontent.com/selyassine/selyassine/output/github-contribution-grid-snake.svg" alt="Animation des contributions" width="100%">
   </picture>
+</p>
+
+### 🤝 Me contacter
+
+<p align="center">
+  Une question sur un projet, un stage ou une collaboration ? Écris-moi sur <a href="https://www.linkedin.com/in/selmi-yassine-437503311/"><b>LinkedIn</b></a>.
 </p>
 
 <!-- Pied de page -->
