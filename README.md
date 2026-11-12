@@ -12,7 +12,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/selmi-yassine-437503311/"><img src="https://img.shields.io/badge/LinkedIn-Yassine%20Selmi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://selyassine.github.io"><img src="https://img.shields.io/badge/Portfolio-selyassine.github.io-2C5364?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
   <a href="https://github.com/selyassine?tab=repositories"><img src="https://img.shields.io/badge/Projets-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projets"></a>
+</p>
+<p align="center">
+  <sub>🇬🇧 Data science engineering student (ESPRIT, Tunis) and actuarial science master's student (Le Mans Université). I build tools where code does the actuarial maths, the language model explains, and every figure is checked. Open to internships.</sub>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=selyassine&label=Vues%20du%20profil&color=0e75b6&style=for-the-badge" alt="Vues du profil">
@@ -57,6 +61,8 @@ class YassineSelmi:
 | 🧾 | [**IFRS 17 Copilot**](https://github.com/selyassine/ifrs17-copilot) | CSM identique **au centime sur 50/50 dossiers** contre un script R indépendant · 370+ tests | <img src="https://img.shields.io/github/actions/workflow/status/selyassine/ifrs17-copilot/ci.yml?branch=main&label=CI&style=flat-square&logo=githubactions&logoColor=white" alt="CI"> <img src="https://img.shields.io/github/languages/top/selyassine/ifrs17-copilot?style=flat-square&color=36BCF7" alt="Langage"> <img src="https://img.shields.io/github/last-commit/selyassine/ifrs17-copilot?style=flat-square&label=mis%20%C3%A0%20jour&color=2C5364" alt="Dernière mise à jour"> |
 | 🚗 | [**SIAP**](https://github.com/selyassine/SIAP) | Tarification GLM + LightGBM, fraude (AUC ≈ 0,82), IBNR Chain Ladder / Mack / Bootstrap, vision YOLOv8 | <img src="https://img.shields.io/github/languages/top/selyassine/SIAP?style=flat-square&color=36BCF7" alt="Langage"> <img src="https://img.shields.io/github/last-commit/selyassine/SIAP?style=flat-square&label=mis%20%C3%A0%20jour&color=2C5364" alt="Dernière mise à jour"> |
 | 🧬 | [**VitaAI**](https://github.com/selyassine/VITA) | 15 modules d'assurance-vie : Lee-Carter, SCR sur courbes EIOPA, VaR de longévité à 99,5 % | <img src="https://img.shields.io/github/languages/top/selyassine/VITA?style=flat-square&color=36BCF7" alt="Langage"> <img src="https://img.shields.io/github/last-commit/selyassine/VITA?style=flat-square&label=mis%20%C3%A0%20jour&color=2C5364" alt="Dernière mise à jour"> |
+| 🌪️ | [**climatXL**](https://github.com/selyassine/climatXL) | Réassurance catastrophe et climat : GPD non stationnaire, tarification de tranche XL, chargement 2035 de +27 % dans [−59 % ; +142 %], donc non démontré · ajustement de McNeil (1997) reproduit | <img src="https://img.shields.io/github/actions/workflow/status/selyassine/climatXL/R-CMD-check.yaml?branch=main&label=CI&style=flat-square&logo=githubactions&logoColor=white" alt="CI"> <img src="https://img.shields.io/github/languages/top/selyassine/climatXL?style=flat-square&color=36BCF7" alt="Langage"> <img src="https://img.shields.io/github/last-commit/selyassine/climatXL?style=flat-square&label=mis%20%C3%A0%20jour&color=2C5364" alt="Dernière mise à jour"> |
+| 🧮 | [**claude_actuaire**](https://github.com/selyassine/claude_actuaire) | Moteur de calcul actuariel livré comme skill Claude : **59/59 valeurs justes** au banc d'essai, contre 47/59 sans code | <img src="https://img.shields.io/github/actions/workflow/status/selyassine/claude_actuaire/tests.yml?branch=main&label=CI&style=flat-square&logo=githubactions&logoColor=white" alt="CI"> <img src="https://img.shields.io/github/languages/top/selyassine/claude_actuaire?style=flat-square&color=36BCF7" alt="Langage"> <img src="https://img.shields.io/github/last-commit/selyassine/claude_actuaire?style=flat-square&label=mis%20%C3%A0%20jour&color=2C5364" alt="Dernière mise à jour"> |
 | 📈 | [**QuantAI**](https://github.com/selyassine/Quant) | Ensemble LightGBM + LSTM + Transformer, Markowitz, Black-Litterman, agent avec validation humaine | <img src="https://img.shields.io/github/languages/top/selyassine/Quant?style=flat-square&color=36BCF7" alt="Langage"> <img src="https://img.shields.io/github/last-commit/selyassine/Quant?style=flat-square&label=mis%20%C3%A0%20jour&color=2C5364" alt="Dernière mise à jour"> |
 | ⚙️ | [**Titanic MLOps**](https://github.com/selyassine/Mlops) | GitHub Actions → GHCR → Jenkins → Prefect, automatiquement à chaque push | <img src="https://img.shields.io/github/languages/top/selyassine/Mlops?style=flat-square&color=36BCF7" alt="Langage"> <img src="https://img.shields.io/github/last-commit/selyassine/Mlops?style=flat-square&label=mis%20%C3%A0%20jour&color=2C5364" alt="Dernière mise à jour"> |
 
@@ -127,7 +133,9 @@ class YassineSelmi:
 
 ---
 
-### 📊 Statistiques GitHub
+<details>
+<summary><b>📊 Statistiques GitHub</b></summary>
+<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/selyassine/selyassine/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Résumé du profil" width="100%">
@@ -151,6 +159,10 @@ class YassineSelmi:
     <img src="https://raw.githubusercontent.com/selyassine/selyassine/output/github-contribution-grid-snake.svg" alt="Animation des contributions" width="100%">
   </picture>
 </p>
+
+</details>
+
+---
 
 ### 🤝 Me contacter
 
