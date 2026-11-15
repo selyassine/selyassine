@@ -19,7 +19,6 @@
   <sub>🇬🇧 Data science engineering student (ESPRIT, Tunis) and actuarial science master's student (Le Mans Université). I build tools where code does the actuarial maths, the language model explains, and every figure is checked. Open to internships.</sub>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=selyassine&label=Vues%20du%20profil&color=0e75b6&style=for-the-badge" alt="Vues du profil">
   <img src="https://img.shields.io/badge/Tunis-Tunisie-2C5364?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Tunis">
   <img src="https://img.shields.io/badge/Ouvert%20aux-stages%20%26%20opportunit%C3%A9s-2ea44f?style=for-the-badge" alt="Ouvert aux opportunités">
 </p>
@@ -41,7 +40,7 @@ class YassineSelmi:
                   "Master Actuariat — Le Mans Université"]
     diplome    = "août 2027"
     expertise  = ["IFRS 17", "Provisionnement (Chain Ladder, Mack, BF)",
-                  "Solvabilité II", "Tarification GLM", "Valeurs extrêmes"]
+                  "IFRS 9", "Solvabilité II", "Tarification GLM", "Valeurs extrêmes"]
     data_ia    = ["Machine learning", "LLM & RAG", "Agents (LangGraph)", "MLOps"]
     web3       = ["Hedera (HTS, HCS)", "Smart contracts Solidity"]
     principe   = "Le code calcule, le modèle de langage explique, chaque chiffre est vérifié."
@@ -59,6 +58,7 @@ class YassineSelmi:
 | | Projet | Point fort | État |
 | :-: | --- | --- | --- |
 | 🧾 | [**IFRS 17 Copilot**](https://github.com/selyassine/ifrs17-copilot) | CSM identique **au centime sur 50/50 dossiers** contre un script R indépendant · 370+ tests | <img src="https://img.shields.io/github/actions/workflow/status/selyassine/ifrs17-copilot/ci.yml?branch=main&label=CI&style=flat-square&logo=githubactions&logoColor=white" alt="CI"> <img src="https://img.shields.io/github/languages/top/selyassine/ifrs17-copilot?style=flat-square&color=36BCF7" alt="Langage"> <img src="https://img.shields.io/github/last-commit/selyassine/ifrs17-copilot?style=flat-square&label=mis%20%C3%A0%20jour&color=2C5364" alt="Dernière mise à jour"> |
+| 🏦 | [**ecl9**](https://github.com/selyassine/ecl9) | Provision IFRS 9 prêt par prêt (Freddie Mac) : régression logistique contre LightGBM, testés hors période sur la crise de 2008 · écart de **+49 %** au 31/12/2007 · recalcul indépendant en R | <img src="https://img.shields.io/github/actions/workflow/status/selyassine/ecl9/ci.yml?branch=main&label=CI&style=flat-square&logo=githubactions&logoColor=white" alt="CI"> <img src="https://img.shields.io/github/languages/top/selyassine/ecl9?style=flat-square&color=36BCF7" alt="Langage"> <img src="https://img.shields.io/github/last-commit/selyassine/ecl9?style=flat-square&label=mis%20%C3%A0%20jour&color=2C5364" alt="Dernière mise à jour"> |
 | 🚗 | [**SIAP**](https://github.com/selyassine/SIAP) | Tarification GLM + LightGBM, fraude (AUC ≈ 0,82), IBNR Chain Ladder / Mack / Bootstrap, vision YOLOv8 | <img src="https://img.shields.io/github/languages/top/selyassine/SIAP?style=flat-square&color=36BCF7" alt="Langage"> <img src="https://img.shields.io/github/last-commit/selyassine/SIAP?style=flat-square&label=mis%20%C3%A0%20jour&color=2C5364" alt="Dernière mise à jour"> |
 | 🧬 | [**VitaAI**](https://github.com/selyassine/VITA) | 15 modules d'assurance-vie : Lee-Carter, SCR sur courbes EIOPA, VaR de longévité à 99,5 % | <img src="https://img.shields.io/github/languages/top/selyassine/VITA?style=flat-square&color=36BCF7" alt="Langage"> <img src="https://img.shields.io/github/last-commit/selyassine/VITA?style=flat-square&label=mis%20%C3%A0%20jour&color=2C5364" alt="Dernière mise à jour"> |
 | 🌪️ | [**climatXL**](https://github.com/selyassine/climatXL) | Réassurance catastrophe et climat : GPD non stationnaire, tarification de tranche XL, chargement 2035 de +27 % dans [−59 % ; +142 %], donc non démontré · ajustement de McNeil (1997) reproduit | <img src="https://img.shields.io/github/actions/workflow/status/selyassine/climatXL/R-CMD-check.yaml?branch=main&label=CI&style=flat-square&logo=githubactions&logoColor=white" alt="CI"> <img src="https://img.shields.io/github/languages/top/selyassine/climatXL?style=flat-square&color=36BCF7" alt="Langage"> <img src="https://img.shields.io/github/last-commit/selyassine/climatXL?style=flat-square&label=mis%20%C3%A0%20jour&color=2C5364" alt="Dernière mise à jour"> |
@@ -77,10 +77,12 @@ class YassineSelmi:
 </tr>
 </table>
 
-<p align="center"><b>8 certifications obtenues</b> (NVIDIA Deep Learning Institute, The Hashgraph Association) · 1 en cours (DataCamp)</p>
+<p align="center"><b>10 certifications et attestations obtenues</b> (NVIDIA Deep Learning Institute, The Hashgraph Association, 365 Financial Analyst, Forage) · 1 en cours (DataCamp)</p>
 
 | | Certification | Organisme | Date |
 | :-: | --- | --- | :-: |
+| <img src="https://img.shields.io/badge/-365-002147?style=flat-square" alt="365 Financial Analyst"> | **Credit Risk Modeling in Python** | 365 Financial Analyst | nov. 2026 |
+| <img src="https://img.shields.io/badge/-AIG-00A4E4?style=flat-square" alt="AIG"> | **AIG Actuarial Analyst Job Simulation** | Forage | nov. 2026 |
 | <img src="https://img.shields.io/badge/-NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA"> | **Building RAG Agents with LLMs** | NVIDIA DLI | oct. 2026 |
 | <img src="https://img.shields.io/badge/-NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA"> | **Building Transformer-Based NLP Applications** | NVIDIA DLI | oct. 2026 |
 | <img src="https://img.shields.io/badge/-NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA"> | **Applications of AI for Anomaly Detection** | NVIDIA DLI | avr. 2026 |
@@ -123,11 +125,12 @@ class YassineSelmi:
 | Domaine | Méthodes |
 | --- | --- |
 | **IFRS 17** | Modèle général, PAA, CSM, ajustement pour risque, passif pour sinistres survenus |
+| **IFRS 9** | Pertes de crédit attendues (ECL), PD, LGD, EAD, survie en temps discret, scénarios pondérés |
 | **Provisionnement** | Chain Ladder, Mack, Bornhuetter-Ferguson, Bootstrap ODP |
 | **Solvabilité II** | SCR (mortalité, longévité, taux), courbes EIOPA, ORSA, ALM |
 | **Tarification** | GLM Poisson et Gamma, machine learning (LightGBM, XGBoost), audit d'équité SHAP |
 | **Assurance-vie** | Tables de mortalité Lee-Carter, provisions mathématiques, VaR de longévité |
-| **Risques extrêmes** | Théorie des valeurs extrêmes |
+| **Risques extrêmes** | Théorie des valeurs extrêmes, loi de Pareto généralisée, tarification de tranches XL |
 
 </details>
 
@@ -146,10 +149,6 @@ class YassineSelmi:
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/selyassine/selyassine/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Dépôts par langage" height="180">
-  <img src="https://raw.githubusercontent.com/selyassine/selyassine/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Heures de commit" height="180">
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=selyassine&theme=tokyonight&hide_border=true&locale=fr" alt="Série de contributions">
 </p>
 
 <!-- Animation du serpent : générée chaque jour par .github/workflows/snake.yml -->
