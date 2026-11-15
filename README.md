@@ -77,12 +77,13 @@ class YassineSelmi:
 </tr>
 </table>
 
-<p align="center"><b>10 certifications et attestations obtenues</b> (NVIDIA Deep Learning Institute, The Hashgraph Association, 365 Financial Analyst, Forage) · 1 en cours (DataCamp)</p>
+<p align="center"><b>11 certifications et attestations obtenues</b> (NVIDIA Deep Learning Institute, The Hashgraph Association, 365 Financial Analyst, Forage, SAS) · 1 en cours (DataCamp)</p>
 
 | | Certification | Organisme | Date |
 | :-: | --- | --- | :-: |
 | <img src="https://img.shields.io/badge/-365-002147?style=flat-square" alt="365 Financial Analyst"> | **Credit Risk Modeling in Python** | 365 Financial Analyst | nov. 2026 |
 | <img src="https://img.shields.io/badge/-AIG-00A4E4?style=flat-square" alt="AIG"> | **AIG Actuarial Analyst Job Simulation** | Forage | nov. 2026 |
+| <img src="https://img.shields.io/badge/-SAS-0766D1?style=flat-square" alt="SAS"> | **Foundations of Insurance and the IFRS 17 Standard** | SAS | nov. 2026 |
 | <img src="https://img.shields.io/badge/-NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA"> | **Building RAG Agents with LLMs** | NVIDIA DLI | oct. 2026 |
 | <img src="https://img.shields.io/badge/-NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA"> | **Building Transformer-Based NLP Applications** | NVIDIA DLI | oct. 2026 |
 | <img src="https://img.shields.io/badge/-NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA"> | **Applications of AI for Anomaly Detection** | NVIDIA DLI | avr. 2026 |
